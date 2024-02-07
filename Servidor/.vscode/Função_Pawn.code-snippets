@@ -1,0 +1,22 @@
+{
+	"Função Pawn": {
+	"prefix": "function",
+	"body": [
+		"function $1($2){",
+		"  $3",
+		"  return 1;",
+		"}"
+	],
+	"description": "Função Pawn"
+	},
+	"Stock pawn": {
+  	"prefix": "stock",
+  	"body": [
+    	"stock $1($2){",
+    	"  $3",
+    	"  return 1;",
+    	"}"
+  	],
+  	"description": "Stock pawn"
+	}
+}

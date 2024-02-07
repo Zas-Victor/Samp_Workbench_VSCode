@@ -1,0 +1,17 @@
+{
+	"Lista de tags": {
+	"prefix": "tags",
+	"body": [
+		"stock $1($2){",
+		"  new string[100];",
+		"  if($2 == 0){",
+		"    string = \"\";",
+		"  }else if($2 == 1){",
+		"    string = \"\";",
+		"  }",
+		"  return string;",
+		"}"
+	],
+	"description": "Lista de tags"
+	}
+}
